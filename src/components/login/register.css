@@ -1,0 +1,23 @@
+.register{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form-register{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    background-color: black;
+    border: 1px solid white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.input-register{
+    margin: 10px;
+    padding: 7px;
+    border-radius: 20px;
+}
